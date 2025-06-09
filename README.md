@@ -17,8 +17,7 @@ This is a simple and powerful **Language Translator** tool built using **Streaml
 ## 📸 Screenshot
 
 ```markdown
-![Language Translator](https://github.com/Stellarlaunch/CodeAlpha_LanguageTranslator/blob/80eef53d3a097746ceeda54dd34e035ec78320ba/language_translator.png)
-
+![Language Translator](https://github.com/Stellarlaunch/CodeAlpha_LanguageTranslator/blob/main/language_translator.png?raw=true)
 ---
 
 ## 🛠️ Tech Stack
