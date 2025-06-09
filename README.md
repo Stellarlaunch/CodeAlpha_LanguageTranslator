@@ -17,17 +17,21 @@ This is a simple and powerful **Language Translator** tool built using **Streaml
 ## 📸 Screenshot
 
 ```markdown
-![language translator](![language_translator](https://github.com/user-attachments/assets/0235cb00-425b-476f-af86-a90a3bf1417f)
+![Language Translator](https://github.com/user-attachments/assets/0235cb00-425b-476f-af86-a90a3bf1417f)
 
-🛠️ Tech Stack
+---
 
-Python 🐍
-Streamlit 🌟
-Googletrans API (v4.0.0-rc1)
-Pyperclip (for clipboard copy)
+## 🛠️ Tech Stack
 
-🔧 How to Run
+- Python 🐍  
+- Streamlit 🌟  
+- Googletrans API (v4.0.0-rc1)  
+- Pyperclip (for clipboard copy)  
+
+---
+
+## 🔧 How to Run
+
+```bash
 pip install -r requirements.txt
 streamlit run translator.py
-
-
