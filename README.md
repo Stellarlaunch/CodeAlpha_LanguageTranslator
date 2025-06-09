@@ -6,18 +6,18 @@ This is a simple and powerful **Language Translator** tool built using **Streaml
 
 ## 🚀 Features
 
-- 🔤 Translate text between 100+ languages
-- 🌐 Web-based UI powered by Streamlit
-- ✅ Easy dropdowns for language selection
-- 📋 One-click to copy translated text
-- 💖 Fast and accurate translations
+- 🔤 Translate text between 100+ languages  
+- 🌐 Web-based UI powered by Streamlit  
+- ✅ Easy dropdowns for language selection  
+- 📋 One-click to copy translated text  
+- 💖 Fast and accurate translations  
 
 ---
 
 ## 📸 Screenshot
 
-```markdown
 ![Language Translator](https://github.com/Stellarlaunch/CodeAlpha_LanguageTranslator/blob/main/language_translator.png?raw=true)
+
 ---
 
 ## 🛠️ Tech Stack
